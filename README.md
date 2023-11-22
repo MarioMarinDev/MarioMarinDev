@@ -1,4 +1,4 @@
 ### ¡Hola a todos! 👋
-- 🔭 Actualmente estoy trabajando en un curso de programación web
-- 🌱 Actualmente estoy aprendiendo Unity.
-- 🤔 Estoy buscando ayudar a la educación en México.
+- ✅ Soy líder de desarrollo en [EducarUno](https://educaruno.org)
+- 🌱 Actualmente estoy aprendiendo Godot 4.
+- 🤔 Estoy buscando ayudar a la educación en México con proyectos educativos.
